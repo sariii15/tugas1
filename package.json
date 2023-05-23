@@ -1,0 +1,13 @@
+{
+  "name": "tugas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal-1.js",
+  "scripts": {
+    "mulai":"node . && node app.js && echo Berhasil!",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
